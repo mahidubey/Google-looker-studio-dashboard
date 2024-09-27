@@ -1,4 +1,5 @@
 # Customer Analysis Overview - Google Looker Studio Dashboard
+![Customer Analysis Dashboard](https://github.com/username/repo-name/blob/main/images/dashboard.png)
 
 **Project Description**
 This project presents an interactive Customer Analysis Dashboard built with Google Looker Studio. The dashboard visualizes key metrics and insights to help businesses understand customer behavior, purchasing patterns, and sales performance. It is designed to offer an intuitive interface for analyzing customer segmentation, sales trends, and profitability across various dimensions.
